@@ -18,3 +18,4 @@ else
 fi
 
 echo "I have changed this branch"
+echo "this is for git pull"
